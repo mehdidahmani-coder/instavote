@@ -19,7 +19,7 @@ spec:
         app: vote
     spec:
       containers:
-      - image: schoolofdevops/vote:v1
+      - image: schoolofdevops/vote:v111111111
         name: vote
         resources: {}
 status: {}
